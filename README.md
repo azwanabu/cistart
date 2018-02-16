@@ -5,7 +5,12 @@ quickly start a project with CI
 
 # Libraries
 - templates
-- mymodel - like ORM
+- [mymodel](https://github.com/avenirer/CodeIgniter-MY_Model)
 - admin template
 - auth - using ...
 - datatables
+
+
+#autoload
+- template library
+- url helper
